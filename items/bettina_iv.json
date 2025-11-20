@@ -10,7 +10,7 @@
     "no": "Bettina IV",
     "da": "Bettina IV",
     "it": "Bettina IV",
-    "ru": "Беттина IV",
+    "ru": "Bettina IV",
     "ja": "Bettina IV",
     "zh-TW": "Bettina IV",
     "uk": "Bettina IV",
@@ -43,7 +43,7 @@
   "type": "Assault Rifle",
   "value": 17000,
   "rarity": "Epic",
-  "weightKg": 11,
+  "weightKg": 11.0,
   "effects": {
     "Durability": {
       "en": "Durability",
@@ -199,6 +199,5 @@
   "upgradeCost": {
     "advanced_mechanical_components": 2,
     "heavy_gun_parts": 2
-  },
-  "isWeapon": true
+  }
 }

@@ -43,7 +43,6 @@
   "type": "Topside Material",
   "rarity": "Rare",
   "value": 700,
-  "weightKg": 0.5,
   "recyclesInto": {
     "oil": 1,
     "plastic_parts": 1

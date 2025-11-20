@@ -150,7 +150,6 @@
     }
   },
   "value": 13000,
-  "weightKg": 11,
   "recipe": {
     "advanced_mechanical_components": 2,
     "medium_gun_parts": 1
@@ -162,6 +161,5 @@
   "craftBench": "weapon_bench",
   "stationLevelRequired": 3,
   "imageFilename": "https://cdn.arctracker.io/items/tempest.png",
-  "updatedAt": "11/11/2025",
-  "isWeapon": true
+  "updatedAt": "11/11/2025"
 }

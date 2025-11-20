@@ -10,7 +10,7 @@
     "no": "Bettina II",
     "da": "Bettina II",
     "it": "Bettina II",
-    "ru": "Беттина II",
+    "ru": "Bettina II",
     "ja": "Bettina II",
     "zh-TW": "Bettina II",
     "uk": "Bettina II",
@@ -43,7 +43,7 @@
   "type": "Assault Rifle",
   "value": 11000,
   "rarity": "Epic",
-  "weightKg": 11,
+  "weightKg": 11.0,
   "effects": {
     "Durability": {
       "en": "Durability",
@@ -199,6 +199,5 @@
   "upgradeCost": {
     "advanced_mechanical_components": 1,
     "heavy_gun_parts": 2
-  },
-  "isWeapon": true
+  }
 }

@@ -4,13 +4,13 @@
     "en": "Kettle III",
     "de": "Kettle III",
     "fr": "Fondoir III",
-    "es": "Caldero III",
+    "es": "Kettle III",
     "pt": "Kettle III",
     "pl": "Kettle III",
     "no": "Kettle III",
     "da": "Kettle III",
     "it": "Kettle III",
-    "ru": "Чайник III",
+    "ru": "Kettle III",
     "ja": "Kettle III",
     "zh-TW": "Kettle III",
     "uk": "Kettle III",
@@ -43,7 +43,7 @@
   "type": "Weapon",
   "rarity": "Common",
   "value": 3000,
-  "weightKg": 7,
+  "weightKg": 7.0,
   "effects": {
     "Durability": {
       "en": "Durability",
@@ -176,6 +176,5 @@
     }
   },
   "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
-  "updatedAt": "10/31/2025",
-  "isWeapon": true
+  "updatedAt": "10/31/2025"
 }

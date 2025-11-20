@@ -3,7 +3,7 @@
   "name": {
     "en": "Damaged ARC Motion Core",
     "de": "Beschädigter ARC-Bewegungskern",
-    "fr": "Processeur de mobilité ARC endommagé",
+    "fr": "Noyau de mouvement ARC endommagé",
     "es": "Núcleo de movimiento ARC dañado",
     "pt": "Núcleo de movimento ARC danificado",
     "pl": "Uszkodzony rdzeń ruchu ARC",
@@ -14,7 +14,7 @@
     "kr": "손상된 ARC 모션 코어",
     "zh-CN": "损坏的ARC运动核心",
     "zh-TW": "損壞的ARC動力核心",
-    "ru": "Поврежденное движущее ядро ARC",
+    "ru": "Поврежденное ядро движения ARC",
     "tr": "Hasarlı ARC Hareket Çekirdeği",
     "uk": "Пошкоджене ядро руху ARC",
     "sr": "Oštećeno ARC jezgro pokreta",

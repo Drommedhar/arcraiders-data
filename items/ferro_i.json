@@ -10,7 +10,7 @@
     "no": "Ferro I",
     "da": "Ferro I",
     "it": "Ferro I",
-    "ru": "Ферро I",
+    "ru": "Ferro I",
     "ja": "Ferro I",
     "zh-TW": "Ferro I",
     "uk": "Ferro I",
@@ -43,9 +43,13 @@
   "type": "Battle Rifle",
   "rarity": "Common",
   "value": 475,
-  "recyclesInto": {
+  "recyleInto": {
     "metal_parts": 2,
     "rubber_parts": 1
+  },
+  "craftMaterials": {
+    "metal_parts": 5,
+    "rubber_parts": 2
   },
   "repairMaterials": {
     "durability_increase": 50,
@@ -56,7 +60,7 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/ferro.png",
   "updatedAt": "11/03/2025",
-  "weightKg": 8,
+  "weightKg": 8.0,
   "effects": {
     "Durability": {
       "en": "Durability",
@@ -171,6 +175,5 @@
   "craftBench": [
     "workbench",
     "weapon_bench"
-  ],
-  "isWeapon": true
+  ]
 }

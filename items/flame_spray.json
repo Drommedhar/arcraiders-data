@@ -10,7 +10,7 @@
     "no": "Flammekaster",
     "da": "Flammekaster",
     "it": "Lanciafiamme",
-    "ru": "Пламенный балончик",
+    "ru": "Огненный распылитель",
     "ja": "フレイムスプレー",
     "zh-TW": "火焰噴射器",
     "uk": "Вогняний розпилювач",
@@ -43,7 +43,7 @@
   "type": "Weapon",
   "rarity": "Uncommon",
   "value": 640,
-  "weightKg": 1,
+  "weightKg": 1.0,
   "effects": {
     "Durability": {
       "en": "Durability",

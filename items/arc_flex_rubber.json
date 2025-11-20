@@ -3,7 +3,7 @@
   "name": {
     "en": "ARC Flex Rubber",
     "de": "Arc-Flex-Gummi",
-    "fr": "Caoutchouc flexible ARC",
+    "fr": "Caoutchouc Arc Flex",
     "es": "Goma Arc Flex",
     "pt": "Borracha Arc Flex",
     "pl": "Guma Arc Flex",
@@ -42,7 +42,7 @@
     "hr": "Može se reciklirati u materijale za izradu.",
     "sr": "Može se reciklirati u materijale za izradu."
   },
-  "weightKg": 1,
+  "weightKg": 1.0,
   "value": 1000,
   "recyclesInto": {
     "rubber_parts": 16

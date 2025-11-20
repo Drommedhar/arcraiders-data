@@ -22,13 +22,10 @@
     "hr": "Pravi Alat"
   },
   "trader": "Tian Wen",
-  "description": {
-    "de": "Du gehörst zu den Neuankömmlingen, oder? Ich brauche einen Freiwilligen, der dieses verbesserte Ferro ausprobiert - es sollte ARC-Panzerungen durchschneiden wie Butter. Baller Löcher in ein paar Maschinen und erstatte mir dann Bericht."
-  },  
   "objectives": [
     {
       "en": "Destroy a Fireball",
-      "de": "Einen Feuerball zerstören",
+      "de": "Zerstöre einen Feuerball",
       "fr": "Détruisez un Fireball",
       "es": "Destruye un Fireball",
       "pt": "Destrua um Fireball",
@@ -48,9 +45,9 @@
     },
     {
       "en": "Destroy a Hornet",
-      "de": "Eine Hornisse zerstören",
+      "de": "Zerstöre eine Hornisse",
       "fr": "Détruisez un Hornet",
-      "es": "Destruye un Avispón",
+      "es": "Destruye un Hornet",
       "pt": "Destrua um Hornet",
       "pl": "Zniszcz Hornet",
       "no": "Ødelegg en Hornet",
@@ -68,9 +65,9 @@
     },
     {
       "en": "Destroy a Turret",
-      "de": "Einen Geschützturm zerstören",
+      "de": "Zerstöre einen Geschützturm",
       "fr": "Détruisez une tourelle",
-      "es": "Destruye una Torreta",
+      "es": "Destruye una torreta",
       "pt": "Destrua uma torreta",
       "pl": "Zniszcz wieżyczkę",
       "no": "Ødelegg et tårn",
@@ -112,6 +109,10 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss5"],
-  "nextQuestIds": ["ss10"]
+  "previousQuestIds": [
+    "ss5"
+  ],
+  "nextQuestIds": [
+    "ss10"
+  ]
 }

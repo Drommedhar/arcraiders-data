@@ -10,7 +10,7 @@
     "no": "Venator I",
     "da": "Venator I",
     "it": "Venator I",
-    "ru": "Охотник I",
+    "ru": "Venator I",
     "ja": "Venator I",
     "zh-TW": "Venator I",
     "uk": "Venator I",
@@ -171,7 +171,6 @@
     }
   },
   "value": 7000,
-  "weightKg": 5,
   "recipe": {
     "advanced_mechanical_components": 2,
     "medium_gun_parts": 3,
@@ -184,6 +183,5 @@
   "craftBench": "weapon_bench",
   "stationLevelRequired": 2,
   "imageFilename": "https://cdn.arctracker.io/items/venator.png",
-  "updatedAt": "11/20/2025",
-  "isWeapon": true
+  "updatedAt": "11/11/2025"
 }

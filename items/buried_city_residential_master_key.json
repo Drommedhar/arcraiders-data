@@ -41,10 +41,6 @@
     "sr": "Glavni ključ za stambena područja u Zakopanom Gradu."
   },
   "type": "Key",
-  "value": 100,
-  "weightKg": 0.25,
-  "rarity": "Uncommon",
-  "stackSize": 1,
-  "updatedAt": "11/13/2025",
-  "imageFilename": "https://cdn.arctracker.io/items/buried_city_residential_master_key.png"
+  "_note": "not_in_serverslam",
+  "updatedAt": "10/30/2025"
 }

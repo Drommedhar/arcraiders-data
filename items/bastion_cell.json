@@ -10,7 +10,7 @@
     "no": "Bastioncelle",
     "da": "Bastioncelle",
     "it": "Cella del bastione",
-    "ru": "Ячейка Бастиона",
+    "ru": "Ячейка бастиона",
     "ja": "バスティオンセル",
     "zh-TW": "堡壘電池",
     "uk": "Комірка бастіону",
@@ -25,9 +25,6 @@
   "value": 5000,
   "recyclesInto": {
     "arc_alloy": 2,
-    "advanced_mechanical_components": 2
-  },
-  "salvagesInto": {
     "advanced_mechanical_components": 2
   },
   "description": {
@@ -50,7 +47,7 @@
     "hr": "Može se reciklirati u materijale za izradu.",
     "sr": "Može se reciklirati u materijale za izradu."
   },
-  "weightKg": 1,
+  "weightKg": 1.0,
   "stackSize": 3,
   "foundIn": "ARC",
   "imageFilename": "https://cdn.arctracker.io/items/bastion_cell.png",

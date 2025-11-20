@@ -3,7 +3,7 @@
   "updatedAt": "11/06/2025",
   "name": {
     "en": "Down To Earth",
-    "de": "Bodenständig",
+    "de": "Zurück auf dem Boden",
     "fr": "Les pieds sur terre",
     "es": "De vuelta a la tierra",
     "pt": "De volta à terra",
@@ -22,13 +22,10 @@
     "hr": "Spuštanje na Zemlju"
   },
   "trader": "Shani",
-  "description": {
-    "de": "Raider berichten schon lange von seltsam aussehenden Kisten, die aus defekten ARC-Sondern fallen. Wenn wir die irgendwie öffnen könnten, verstehen wir vielleicht, wonach sie suchen."
-  },  
   "objectives": [
     {
       "en": "Visit a Field Depot",
-      "de": "Ein Felddepot besuchen",
+      "de": "Besuche ein Felddepot",
       "fr": "Visitez un dépôt de terrain",
       "es": "Visita un depósito de campo",
       "pt": "Visite um depósito de campo",
@@ -48,7 +45,7 @@
     },
     {
       "en": "Deliver a Field Crate to Supply Station",
-      "de": "Feldkiste an ein Felddepot liefern",
+      "de": "Liefere eine Feldkiste zur Versorgungsstation",
       "fr": "Livrez une caisse de terrain à la station de ravitaillement",
       "es": "Entrega una caja de campo a la estación de suministros",
       "pt": "Entregue uma caixa de campo à estação de suprimentos",
@@ -68,7 +65,7 @@
     },
     {
       "en": "Collect the reward",
-      "de": "Belohnung einsammeln",
+      "de": "Sammle die Belohnung ein",
       "fr": "Récupérez la récompense",
       "es": "Recoge la recompensa",
       "pt": "Colete a recompensa",

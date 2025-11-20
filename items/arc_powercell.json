@@ -5,7 +5,7 @@
     "de": "ARC-Energiezelle",
     "fr": "Cellule d'énergie ARC",
     "es": "Celda de energía ARC",
-    "pt": "Bateria ARC",
+    "pt": "Célula de energia ARC",
     "pl": "Ogniwo zasilające ARC",
     "no": "ARC-kraftcelle",
     "da": "ARC-kraftcelle",
@@ -24,7 +24,7 @@
     "en": "Valuable resource that drops from all ARC enemies. Used to craft: Shield Recharger Can be used to repair shields.",
     "de": "Wertvolle Ressource, die von allen ARC-Gegnern fallengelassen wird. Wird verwendet für: Schildauflader Kann zur Reparatur von Schilden verwendet werden.",
     "fr": "Ressource précieuse qui tombe de tous les ennemis ARC. Utilisée pour fabriquer : Rechargeur de bouclier Peut être utilisée pour réparer les boucliers.",
-    "es": "Recurso valioso que sueltan todos los enemigos ARC. Se usa para fabricar: Cargadir de Escudos. Se puede usar para reparar escudos.",
+    "es": "Recurso valioso que sueltan todos los enemigos ARC. Se usa para fabricar: Recargador de escudo Se puede usar para reparar escudos.",
     "pt": "Recurso valioso que cai de todos os inimigos ARC. Usada para fabricar: Recarregador de escudo Pode ser usada para reparar escudos.",
     "pl": "Cenny zasób, który wypada ze wszystkich wrogów ARC. Używane do wytworzenia: Ładowarka tarczy Może być użyte do naprawy tarcz.",
     "no": "Verdifull ressurs som faller fra alle ARC-fiender. Brukes til å lage: Skjoldopplader Kan brukes til å reparere skjold.",
@@ -42,10 +42,9 @@
   },
   "type": "Topside Material",
   "rarity": "Common",
-  "value": 270,
+  "value": 640,
   "recyclesInto": {},
   "imageFilename": "https://cdn.arctracker.io/items/arc_powercell.png",
-  "updatedAt": "11/20/2025",
   "weightKg": 0.5,
   "stackSize": 5,
   "foundIn": "ARC",
@@ -113,5 +112,6 @@
       "sr": "Vreme Korišćenja",
       "value": "3s"
     }
-  }
+  },
+  "updatedAt": "11/03/2025"
 }

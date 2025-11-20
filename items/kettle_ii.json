@@ -4,7 +4,7 @@
     "en": "Kettle II",
     "de": "Kettle II",
     "fr": "Fondoir II",
-    "es": "Caldero II",
+    "es": "Kettle II",
     "pt": "Kettle II",
     "pl": "Kettle II",
     "no": "Kettle II",
@@ -43,7 +43,6 @@
   "type": "Weapon",
   "rarity": "Common",
   "value": 840,
-  "weightKg": 7,
   "recyclesInto": {
     "plastic_parts": 6,
     "rubber_parts": 6

@@ -4,7 +4,7 @@
     "en": "Osprey II",
     "de": "Osprey II",
     "uk": "Osprey II",
-    "ru": "Ястреб II",
+    "ru": "Osprey II",
     "zh-TW": "魚鷹 II",
     "tr": "Osprey II",
     "zh-CN": "鱼鹰 II",
@@ -14,7 +14,7 @@
     "pl": "Osprey II",
     "no": "Osprey II",
     "ja": "オスプレイ II",
-    "fr": "Balbuzard II",
+    "fr": "Osprey II",
     "es": "Osprey II",
     "hr": "Osprey II",
     "pt": "Osprey II",
@@ -197,11 +197,11 @@
   },
   "craftBench": "weapon_bench",
   "stationLevelRequired": 1,
-  "recyclesInto": {
+  "recycledMaterial": {
     "advanced_mechanical_components": 2,
     "medium_gun_parts": 2
   },
-  "salvagesInto": {
+  "salvagedMaterial": {
     "medium_gun_parts": 2
   },
   "description": {
@@ -232,8 +232,7 @@
   "stability": 89.4,
   "agility": 45.9,
   "stealth": 12,
-  "weightKg": 7,
+  "weight": 7.0,
   "imageFilename": "https://cdn.arctracker.io/items/osprey.png",
-  "updatedAt": "11/12/2025",
-  "isWeapon": true
+  "updatedAt": "11/12/2025"
 }
